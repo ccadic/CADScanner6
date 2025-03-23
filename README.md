@@ -1,3 +1,4 @@
+<img src="ipscanner6.jpg">
 Nom du logiciel : CADScanner6
 Version : 1.0
 Type : utilitaire réseau – freeware
